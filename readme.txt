@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git Git Git 3 
 Git track changes changes of files.
 Creating a new branch is fast.
+
+create a new branch in master is also simple.
