@@ -4,4 +4,5 @@ Git Git Git 3
 Git track changes changes of files.
 Creating a new branch is fast.
 
-create a new branch in master is also simple.
+create a new branch in master is  simple and soosososoosfast!
+
