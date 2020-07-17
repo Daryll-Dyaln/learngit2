@@ -6,3 +6,4 @@ Creating a new branch is fast.
 
 create a new branch in master is  simple and soosososoosfast!
 
+This is my test of git diff
